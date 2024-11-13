@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Ritobroto-yellow)
+![](https://img.shields.io/badge/Anirudh-yellow)
 
 # CryptoTrackr
 
@@ -44,7 +44,7 @@ To get this project up and running, you should do the following;
 If you wish to run the project locally, please do the following:
 
 1.- Clone the repository to your local machine.
-    - **`git clone https://github.com/RitobrotoMukherjee/crypto-tracker.git`**
+    - **`git clone https://github.com/AnirudhRana55/CryptoTrackr.git`**
     - **`cd crypto-tracker`**
 
 2.- Install Node.js and npm if you haven't already.
